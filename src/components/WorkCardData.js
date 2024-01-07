@@ -25,7 +25,7 @@ view:"https://adiiswa2719.netlify.app/"
 imgsrc: pro3,
 title: " Personal Portfolio",
 Text: "Created a beautiful personalized portfolio website with multiple pages, including About Me and my Projects and contacts, showcasing notable work,achievements and all. Implemented responsive web design techniques and optimized performance for a seamless user experience across different browsers.",
-view:"url.com"
+view:"https://adii-work.netlify.app/"
 
 },
 ];
